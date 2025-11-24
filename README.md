@@ -1,4 +1,4 @@
-#Detección de Vulnerabilidad Infantil en Contextos de Movilidad Humana
+# Detección de Vulnerabilidad Infantil en Contextos de Movilidad Humana
 Modelo explicativo con XGBoost + SHAP para fortalecer políticas públicas basadas en evidencia
 
 Autora: Alejandra Otero Leyton
